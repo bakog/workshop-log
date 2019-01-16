@@ -22,6 +22,6 @@ Megtudtuk, hogy van köztünk
 - adattárház expert, aki 3 éve pythonozik aktívan
 - nagyszájú DevOps evangelista, aki tegnap kezdte az egészet
 - és aki még a körkérdés előtt elment, vagy csak nem emlékszem, de ide beírja és felpusholja a commitját
-###### TODO: @bakog írj egy sort légyszi magadról
+- rendszergazda és tanár
 
 Lelkesen várja mindenki a következő alkalmat :) és a később becsatlakozók hadát GYERTEK!!! :D
